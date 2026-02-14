@@ -24,7 +24,7 @@ const LoveLetter = () => {
         {!accepted ? (
           <>
             <h3 className="text-3xl md:text-4xl font-bold text-foreground mb-4 font-['Playfair_Display']">
-              Will you be my Valentine?
+              Xyla, will you be my Valentine?
             </h3>
             <p className="text-muted-foreground text-lg mb-10">
               Choose wisely... 💕
